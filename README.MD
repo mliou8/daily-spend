@@ -1,0 +1,1 @@
+Small javascript/html exercise to practice basic javascript
